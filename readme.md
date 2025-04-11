@@ -3,6 +3,8 @@
 # Follow this video to be a ArgoCD Boss
 https://youtu.be/JLrR9RV9AFA
 
+# Installing Minikube
+https://github.com/Omoba5/k8s-argo-examples.git
 
 # Installing latest/stable version of ArgoCD
 ```
